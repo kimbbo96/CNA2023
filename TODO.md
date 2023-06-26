@@ -1,13 +1,11 @@
-# Example of TODO.md
+# Cose da fare
 
-This is an example of TODO.md
-
-View the raw content of this file to understand the format.
+TODO list
 
 ### Todo
 
 - [ ] CCDF
-- [ ]   
+- [ ] vedi traccia prof  
 
 ### In Progress
 
